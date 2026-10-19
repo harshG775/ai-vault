@@ -1,0 +1,11 @@
+# Obsidian local/device-specific state (changes on every open, causes noisy diffs/conflicts)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/graph.json
+# Deleted notes trash
+.trash/
+
+# OS files
+.DS_Store
+Thumbs.db
